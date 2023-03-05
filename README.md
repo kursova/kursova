@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @kursova
-- 👀 I’m interested in dana analytic
-- 🌱 I’m currently learning SQL and R
-- 💞️ I’m looking to collaborate on data analytic
+- 👋 Hi, I’m Gizem Kursova
+- 👀 I’m a Data Analyst and continually learning
+- 🌱 I’m currently learning SQL, Pyhton and Power BI
 - 📫 How to reach me 
 https://twitter.com/home
+https://www.kaggle.com/
+https://www.linkedin.com/in/gizem-kursova/
 <!---
 kursova/kursova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
