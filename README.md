@@ -2,8 +2,8 @@
 - 👀 I’m a Data Analyst and continually learning
 - 🌱 I’m currently learning SQL, Pyhton and Power BI
 - 📫 How to reach me 
-https://twitter.com/home
-https://www.kaggle.com/
+
+
 https://www.linkedin.com/in/gizem-kursova/
 <!---
 kursova/kursova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
